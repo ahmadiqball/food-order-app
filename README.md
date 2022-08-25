@@ -18,3 +18,4 @@ git clone git@github:ahmadiqball/food-order-app.git
 npm install
 npm start
 ```
+
